@@ -3,8 +3,8 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "lallinger";
-const char* password = "Fritz9.3.1990";
+const char* ssid = "<ssid>";
+const char* password = "<password>";
 const char* mqtt_server = "192.168.0.211";
 
 const char* clientId = "espVoltage";
